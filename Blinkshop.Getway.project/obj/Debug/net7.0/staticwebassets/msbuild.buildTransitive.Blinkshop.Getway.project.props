@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Blinkshop.Getway.project.props" />
+</Project>

@@ -9,65 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlinkShop.Web
 build_property.RootNamespace = BlinkShop.Web
-build_property.ProjectDir = D:\micro service\project\BlinkShop\BlinkShop.Web\
+build_property.ProjectDir = C:\Users\DB\Desktop\gitgit\BlinkShop-Microservice\BlinkShop.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\micro service\project\BlinkShop\BlinkShop.Web
+build_property.MSBuildProjectDirectory = C:\Users\DB\Desktop\gitgit\BlinkShop-Microservice\BlinkShop.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Athu/Login.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Athu/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRodVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Athu/Regestration.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Athu/Regestration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRodVxSZWdlc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Coupon/Coponinfo.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Coupon/Coponinfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvcG9uaW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Coupon/CouponGetAll.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Coupon/CouponGetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvdXBvbkdldEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Coupon/CreateCoupon.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Coupon/CreateCoupon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENyZWF0ZUNvdXBvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Home/Details.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Home/Index.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Home/Privacy.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Product/ProductList.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Product/ProductList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Shared/Error.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/_ViewImports.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/_ViewStart.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/micro service/project/BlinkShop/BlinkShop.Web/Views/Shared/_Layout.cshtml]
+[C:/Users/DB/Desktop/gitgit/BlinkShop-Microservice/BlinkShop.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6j9pe1hhg5

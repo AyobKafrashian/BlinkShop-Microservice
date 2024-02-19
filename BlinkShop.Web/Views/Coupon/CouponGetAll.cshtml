@@ -4,7 +4,7 @@
         <div class="card">
             <div class="card-header">
                 <div class="d-inline justify-content-between">
-                    <span > جدول لیست کوپون ها</span>
+                    <span> جدول لیست کوپون ها</span>
                     <span class="float-start">
                         <a class="btn btn-success" asp-controller="Coupon" asp-action="CreateCoupon"> ساخت کد تخفیف</a>
                     </span>
@@ -13,35 +13,32 @@
             <div class="card-body">
                 <table class="table">
                     <thead>
-                    <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">کد</th>
-                        <th scope="col">تخفیف</th>
-                        <th scope="col">حداقل خرید</th>
-                        <th scope="col">عملیات</th>
-                    </tr>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">کد</th>
+                            <th scope="col">تخفیف</th>
+                            <th scope="col">حداقل خرید</th>
+                            <th scope="col">عملیات</th>
+                        </tr>
                     </thead>
                     <tbody>
-                    @foreach (var i in Model)
-                    {
-                        <tr>
-                            <th scope="row">@i.CouponId</th>
-                            <td>@i.CouponCode</td>
-                            <td>@i.DiscountAmount</td>
-                            <td>@i.MinAmount</td>
-                            <td>
-                            >
-                            <a class="btn btn-danger" asp-action="Coponinfo"  asp-route-id="@i.CouponId">"حذف
+                        @foreach (var i in Model)
+                        {
+                            <tr>
+                                <th scope="row">@i.CouponId</th>
+                                <td>@i.CouponCode</td>
+                                <td>@i.DiscountAmount</td>
+                                <td>@i.MinAmount</td>
+                                <td>
+                                    <a class="btn btn-danger" asp-action="Coponinfo" asp-route-id="@i.CouponId">
+                                        حذف
                                     </a>
-                            </td>
-
-                        </tr>
-                    }
-
+                                </td>
+                            </tr>
+                        }
                     </tbody>
                 </table>
             </div>
         </div>
     </div>
-
 </div>

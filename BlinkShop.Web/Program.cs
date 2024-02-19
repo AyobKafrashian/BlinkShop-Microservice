@@ -1,3 +1,5 @@
+using BlinkShop.Web.AsyncDataService.Implements;
+using BlinkShop.Web.AsyncDataService.Interfaces;
 using BlinkShop.Web.Service;
 using BlinkShop.Web.Service.IService;
 using BlinkShop.Web.Utility;
@@ -23,6 +25,8 @@ builder.Services.AddScoped<IBaseService, BaseService>();
 builder.Services.AddScoped<IAthuService, AthuService>();
 builder.Services.AddScoped<ITokenProvider, TokenProvider>();
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddSingleton<IMessageBusClient, MessageBusClient>();
+
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(opt =>
 {
 opt.ExpireTimeSpan=TimeSpan.FromHours(10);

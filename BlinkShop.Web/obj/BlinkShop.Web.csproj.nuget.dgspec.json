@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\micro service\\project\\BlinkShop\\BlinkShop.Web\\BlinkShop.Web.csproj": {}
+    "C:\\Users\\DB\\Desktop\\gitgit\\BlinkShop-Microservice\\BlinkShop.Web\\BlinkShop.Web.csproj": {}
   },
   "projects": {
-    "D:\\micro service\\project\\BlinkShop\\BlinkShop.Web\\BlinkShop.Web.csproj": {
+    "C:\\Users\\DB\\Desktop\\gitgit\\BlinkShop-Microservice\\BlinkShop.Web\\BlinkShop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\micro service\\project\\BlinkShop\\BlinkShop.Web\\BlinkShop.Web.csproj",
+        "projectUniqueName": "C:\\Users\\DB\\Desktop\\gitgit\\BlinkShop-Microservice\\BlinkShop.Web\\BlinkShop.Web.csproj",
         "projectName": "BlinkShop.Web",
-        "projectPath": "D:\\micro service\\project\\BlinkShop\\BlinkShop.Web\\BlinkShop.Web.csproj",
-        "packagesPath": "C:\\Users\\shahab-i317\\.nuget\\packages\\",
-        "outputPath": "D:\\micro service\\project\\BlinkShop\\BlinkShop.Web\\obj\\",
+        "projectPath": "C:\\Users\\DB\\Desktop\\gitgit\\BlinkShop-Microservice\\BlinkShop.Web\\BlinkShop.Web.csproj",
+        "packagesPath": "C:\\Users\\DB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DB\\Desktop\\gitgit\\BlinkShop-Microservice\\BlinkShop.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\shahab-i317\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +51,10 @@
             "PagedList.Mvc": {
               "target": "Package",
               "version": "[4.5.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -78,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

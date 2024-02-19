@@ -20,7 +20,7 @@ public class CouponContorller : BaseOfController
     }
 
     [HttpGet]
-    [Authorize]
+    //[Authorize]
     public ResponseDto GetAll()
     {
         try
